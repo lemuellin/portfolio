@@ -9,13 +9,15 @@ const Education = () => {
             </div>
             <div className=" md:w-[48rem] border border-black-4 rounded-2xl p-7">
                 <div className="grid grid-cols-4 pb-3">
-                    <div className="font-bold text-xl col-span-3">Master of Science in Mechanical Engineering</div>
-                    <div className="justify-self-end text-lg">Sept. 2017</div>
-                    <div className="font-bold text-xl col-span-3">Bachelor of Science in Mechanical Engineering</div>
-                    <div className="justify-self-end text-lg">June 2015</div>
+                    <div className=" hidden edu:block font-bold text-xl col-span-3">Master of Science in Mechanical Engineering</div>
+                    <div className="edu:hidden font-bold text-xl col-span-4">M.S. & B.S.</div>
+                    <div className="edu:hidden font-bold text-xl col-span-4">in Mechanical Engineering</div>
+                    <div className="hidden edu:block justify-self-end text-lg">Sept. 2017</div>
+                    <div className="hidden edu:block font-bold text-xl col-span-3">Bachelor of Science in Mechanical Engineering</div>
+                    <div className="hidden edu:block justify-self-end text-lg">June 2015</div>
                 </div>
 
-                <div className=" text-lg">* NTHU was ranked 33rd in Eng. Tech from 18' QS Ranking (CMU ranked 31, UCLA 35)</div>
+                <div className=" text-md skills:text-lg">* NTHU was ranked 33rd in Eng. Tech from 18' QS Ranking (CMU ranked 31, UCLA 35)</div>
             </div>
         </div>
     )
