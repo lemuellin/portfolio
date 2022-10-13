@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e8fa4470.css",
+    "main.js": "/portfolio/static/js/main.aa602472.js",
+    "static/media/placeholder.png": "/portfolio/static/media/placeholder.3db604ffcfa63a0e71ac.png",
+    "static/media/NTHU_logo.png": "/portfolio/static/media/NTHU_logo.ca523ba62725b880ce81.png",
+    "static/media/Ford_logo.png": "/portfolio/static/media/Ford_logo.6d9a89f84b3e1f5d4c12.png",
+    "static/media/Lemuel_Lin_Resume.pdf": "/portfolio/static/media/Lemuel_Lin_Resume.a4949ab0659ac24f358b.pdf",
+    "static/media/ScrollDown.gif": "/portfolio/static/media/ScrollDown.d8e5e186ec4e82a9796d.gif",
+    "static/media/CGU_logo.png": "/portfolio/static/media/CGU_logo.b147f8bf8d75647c50b0.png",
+    "static/media/avatar.jpeg": "/portfolio/static/media/avatar.be03d2f67785b71c47a9.jpeg",
+    "static/media/email.png": "/portfolio/static/media/email.51b08bcbb5af7a861c31.png",
+    "index.html": "/portfolio/index.html",
+    "main.e8fa4470.css.map": "/portfolio/static/css/main.e8fa4470.css.map",
+    "main.aa602472.js.map": "/portfolio/static/js/main.aa602472.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8fa4470.css",
+    "static/js/main.aa602472.js"
+  ]
+}
