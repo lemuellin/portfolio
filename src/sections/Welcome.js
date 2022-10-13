@@ -3,7 +3,7 @@ import Links from '../components/Links';
 
 const Welcome = () => {
     return(
-        <div>
+        <div id="welcome" className="scroll-mt-12">
             <div className=" h-screen flex flex-col justify-center items-center gap-5 pt-28">
                 <div className=" text-6xl font-redhat font-semibold text-center">
                     Hi, I'm Lemuel. 
