@@ -4,7 +4,7 @@ import Links from '../components/Links';
 const Welcome = () => {
     return(
         <div id="welcome" className="scroll-mt-12">
-            <div className=" h-screen flex flex-col justify-center items-center gap-5 pt-28">
+            <div className=" pl-8 pr-8 skills:pl-auto skills:pr-auto h-screen flex flex-col justify-center items-center gap-5 pt-28">
                 <div className=" text-4xl sm:text-6xl font-redhat font-semibold text-center">
                     Hi, I'm Lemuel. 
                 </div>
