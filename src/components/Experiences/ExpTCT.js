@@ -11,7 +11,7 @@ const ExpTCT = () => {
                 </div>
             </div>
             <div className=" md:w-[48rem] border border-black-4 rounded-2xl p-7">
-                <div className="font-bold text-2xl pb-3">Application Engineer</div>
+                <div className="font-semibold text-2xl pb-3">Application Engineer</div>
                 <div className=" text-lg">
                     <div>• Optimized <span className='bg-yellow-300 px-2  font-semibold'>PCB drilling process</span> through design, conduct tests</div>
                     {/* <div>• Collaborated with an engineering team abroad, fine-tune an IoT smart warehouse</div> */}

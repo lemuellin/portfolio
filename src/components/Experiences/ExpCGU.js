@@ -11,7 +11,7 @@ const ExpCGU = () => {
                 </div>
             </div>
             <div className=" md:w-[48rem] border border-black-4 rounded-2xl p-7">
-                <div className="font-bold text-2xl pb-3">Biomedical Research Assistant</div>
+                <div className="font-semibold text-2xl pb-3">Biomedical Research Assistant</div>
                 <div className=" text-lg">
                     <div>• Streamlined <span className='bg-yellow-300 px-2 font-semibold'>MATLAB</span> programs to process 3D medical image</div>
                     <div>• Customized <span className='bg-yellow-300 px-2 font-semibold'>Convolutional Neural Network</span> to classify image with <span className='bg-yellow-300 px-2 font-semibold'>TensorFlow</span></div>

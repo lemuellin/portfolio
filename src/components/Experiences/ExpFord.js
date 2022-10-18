@@ -11,7 +11,7 @@ const ExpFord = () => {
                 </div>
             </div>
             <div className=" md:w-[48rem] border border-black-4 rounded-2xl p-7">
-                <div className="font-bold text-2xl pb-3">Technical Marketing Intern</div>
+                <div className="font-semibold text-2xl pb-3">Technical Marketing Intern</div>
                 <div className=" text-lg">
                     <div>• Conducted <span className='bg-yellow-300 px-2 font-semibold'>market research</span> to enhance Ford's brand image</div>
                     <div>• Refined the seat design of Escape model</div>
