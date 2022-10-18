@@ -1,10 +1,10 @@
 import Project from "../components/Project";
-import minimalGarden from "../assets/screenshots/minimalGarden.gif";
-import portfolio from '../assets/screenshots/portfolio.png';
-import monogram from '../assets/screenshots/monogram.gif';
-import wheresWalter from '../assets/screenshots/wheresWalter.gif';
-import weatherNow from '../assets/screenshots/weatherNow.png';
-import battleship from '../assets/screenshots/battleship.gif';
+import minimalGarden from "../assets/screenshots/minimalGardenCompressed.gif";
+import portfolio from '../assets/screenshots/portfolioCompressed.png';
+import monogram from '../assets/screenshots/monogramCompressed.gif';
+import wheresWalter from '../assets/screenshots/wheresWalterCompressed.gif';
+import weatherNow from '../assets/screenshots/weatherNowCompressed.jpg';
+import battleship from '../assets/screenshots/battleshipCompressed.gif';
 
 const Projects = () => {
     return(
