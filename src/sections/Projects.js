@@ -22,8 +22,8 @@ const Projects = () => {
                 <Project 
                     preview={minimalGarden} 
                     title={"Minimal Garden"} 
-                    description={"An E-commerce website with all the shopping cart functionalities."} 
-                    tech={"React, Jest"}
+                    description={"A React E-Commerce site with a fully functional shopping cart."} 
+                    tech={"React, React Testing Library, Jest"}
                     liveLink={"https://lemuellin.github.io/shopping-cart/"}
                     githubLink={"https://github.com/lemuellin/shopping-cart"}
                 />
@@ -31,7 +31,7 @@ const Projects = () => {
                     preview={wheresWalter} 
                     title={"Where's Walter?"} 
                     description={"A Photo-Tagging game with timer and leaderboard feature, using Firebase to keep scores."} 
-                    tech={"React, Firebase"}
+                    tech={"React, React Router, Firebase"}
                     liveLink={"https://lemuellin.github.io/photo-tagging-app/"}
                     githubLink={"https://github.com/lemuellin/photo-tagging-app"}
                 />
@@ -39,15 +39,15 @@ const Projects = () => {
                     preview={battleship} 
                     title={"Battleship"} 
                     description={"A classic board game designed via Test Driven Development(TDD)."} 
-                    tech={"JS, Test Driven Development, Webpack, Jest"}
+                    tech={"Test Driven Development, Webpack, Jest"}
                     liveLink={"https://lemuellin.github.io/odin-battleship/"}
                     githubLink={"https://github.com/lemuellin/odin-battleship"}
                 />
                 <Project 
                     preview={weatherNow} 
                     title={"Weather Now"} 
-                    description={"A weather app utilizing Open Weather API with async and promises."} 
-                    tech={"JS, Open Weather API, Webpack"}
+                    description={"A weather app utilizing Open Weather API with async/await JS."} 
+                    tech={"Open Weather API, async/await JS"}
                     liveLink={"https://lemuellin.github.io/odin-weather-app/"}
                     githubLink={"https://github.com/lemuellin/odin-weather-app"}
                 />

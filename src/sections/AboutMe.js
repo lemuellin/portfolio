@@ -13,10 +13,13 @@ const AboutMe = () => {
                         Hi, I am <b>Lemuel</b> (pronounced like Samuel, but starts with L).
                     </div>
                     <div>
-                        • I am a Front-End Developer with a background in Mechanical Engineering.
+                        • Front-End Developer with a background in Mechanical Engineering.
                     </div>
                     <div>
-                        • I have <span className=' bg-yellow-300 font-semibold px-2'>1 YOE in Software Development</span>, and <span className=' bg-yellow-300 font-semibold px-2'>4 YOE in Mechanical Engineering</span>.
+                        • <span className=' bg-yellow-300 font-semibold px-2'>1 YOE in Software Development</span>
+                    </div>
+                    <div>
+                        • <span className=' bg-yellow-300 font-semibold px-2'>4 YOE in Mechanical Engineering</span>
                     </div>
                     <div>
                         • I am creative, proactive, and I love challenges.
