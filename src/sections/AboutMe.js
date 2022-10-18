@@ -7,7 +7,7 @@ const AboutMe = () => {
                 About Me
             </div>
             <div className="flex flex-col lg:flex-row justify-center items-center gap-10 pb-24">
-                <img src={avatar} alt={'avatar'} className="w-40 h-fit border border-black-4 p-3 rounded-3xl"/>
+                <img src={avatar} alt={'avatar'} className="w-40 border border-black-4 p-3 rounded-3xl"/>
                 <div className=" min-width-[30rem] md:w-[50rem] border border-black-4 rounded-2xl p-7  flex flex-col gap-3 font-redhat text-xl">
                     <div>
                         Hi, I am <b>Lemuel</b> (pronounced like Samuel, but starts with L).
