@@ -4,10 +4,6 @@ const Others = () => {
             <div className=" col-span-3 text-2xl font-redhat font-bold">Others</div>
 
             <div className="flex flex-col justify-items-center">
-                <i className="devicon-firebase-plain colored text-6xl text-center"></i>
-                <div className="text-center font-redhat font-bold text-md skills:text-xl">Firebase</div>
-            </div>
-            <div className="flex flex-col justify-items-center">
                 <i className="devicon-git-plain colored text-6xl text-center"></i>
                 <div className="text-center font-redhat font-bold text-md skills:text-xl">Git</div>
             </div>
@@ -30,6 +26,10 @@ const Others = () => {
             <div className="flex flex-col justify-items-center">
                 <i className="devicon-npm-original-wordmark colored text-6xl text-center"></i>
                 <div className="text-center font-redhat font-bold text-md skills:text-xl">NPM</div>
+            </div>
+            <div className="flex flex-col justify-items-center">
+                <i className="devicon-matlab-plain colored text-6xl text-center"></i>
+                <div className="text-center font-redhat font-bold text-md skills:text-xl">MATLAB</div>
             </div>
         </div>
     )

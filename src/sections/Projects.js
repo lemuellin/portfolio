@@ -14,8 +14,8 @@ const Projects = () => {
                 <Project 
                     preview={monogram} 
                     title={"Monogram"} 
-                    description={"An Instagram clone for monochrome photography. User can share photos, and like/comment posts."} 
-                    tech={"React, Firebase, Bootstrap"}
+                    description={"An Instagram clone incorporated weather widget to monitor weather/light condition."} 
+                    tech={"React, Firebase, Bootstrap, REST API, Async JS"}
                     liveLink={"https://lemuellin.github.io/monogram/"}
                     githubLink={"https://github.com/lemuellin/monogram"}
                 />
@@ -30,7 +30,7 @@ const Projects = () => {
                 <Project 
                     preview={wheresWalter} 
                     title={"Where's Walter?"} 
-                    description={"A Photo-Tagging game with timer and leaderboard feature, using Firebase to keep scores."} 
+                    description={"A React Photo-Tagging game, utilizing Firebase to verify game status."} 
                     tech={"React, React Router, Firebase"}
                     liveLink={"https://lemuellin.github.io/photo-tagging-app/"}
                     githubLink={"https://github.com/lemuellin/photo-tagging-app"}
@@ -38,8 +38,8 @@ const Projects = () => {
                 <Project 
                     preview={battleship} 
                     title={"Battleship"} 
-                    description={"A classic board game designed via Test Driven Development(TDD)."} 
-                    tech={"Test Driven Development, Webpack, Jest"}
+                    description={"Classic board game designed via Test Driven Development (TDD)."} 
+                    tech={"TDD, OOP, Webpack, Jest"}
                     liveLink={"https://lemuellin.github.io/odin-battleship/"}
                     githubLink={"https://github.com/lemuellin/odin-battleship"}
                 />
@@ -47,7 +47,7 @@ const Projects = () => {
                     preview={weatherNow} 
                     title={"Weather Now"} 
                     description={"A weather app utilizing Open Weather API with async/await JS."} 
-                    tech={"Open Weather API, async/await JS"}
+                    tech={"REST API, Async JS"}
                     liveLink={"https://lemuellin.github.io/odin-weather-app/"}
                     githubLink={"https://github.com/lemuellin/odin-weather-app"}
                 />
@@ -65,13 +65,3 @@ const Projects = () => {
 }
 
 export default Projects;
-
-// instagram clone
-// portfolio
-// Succulent shop
-// battleship
-// photo tagging app
-// API implement
-
-// stockline?
-// weather app
