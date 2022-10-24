@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.c3b750af.css",
-    "main.js": "/portfolio/static/js/main.9d8dc066.js",
+    "main.css": "/portfolio/static/css/main.f230cf22.css",
+    "main.js": "/portfolio/static/js/main.c0626eda.js",
+    "static/media/monogramCompressed.gif": "/portfolio/static/media/monogramCompressed.8ac06de69d06588d9039.gif",
     "static/media/minimalGardenCompressed.gif": "/portfolio/static/media/minimalGardenCompressed.159f27e35abfa66b65d0.gif",
     "static/media/wheresWalterCompressed.gif": "/portfolio/static/media/wheresWalterCompressed.078b723da85eec92ce16.gif",
-    "static/media/monogramCompressed.gif": "/portfolio/static/media/monogramCompressed.160f653afeba3c2e10c9.gif",
     "static/media/battleshipCompressed.gif": "/portfolio/static/media/battleshipCompressed.dc92dc0cbf3cb6ba3e3e.gif",
     "static/media/NTHU_logo.png": "/portfolio/static/media/NTHU_logo.ca523ba62725b880ce81.png",
     "static/media/weatherNowCompressed.jpg": "/portfolio/static/media/weatherNowCompressed.8ec1829d67f2c2b7bfc5.jpg",
     "static/media/Ford_logo.png": "/portfolio/static/media/Ford_logo.6d9a89f84b3e1f5d4c12.png",
-    "static/media/Lemuel_Lin_Resume.pdf": "/portfolio/static/media/Lemuel_Lin_Resume.a4949ab0659ac24f358b.pdf",
+    "static/media/Lemuel_Lin_Resume.pdf": "/portfolio/static/media/Lemuel_Lin_Resume.ea7216e818d94e81ff77.pdf",
     "static/media/portfolioCompressed.png": "/portfolio/static/media/portfolioCompressed.8f1e4c9430bea3d14f74.png",
     "static/media/ScrollDown.gif": "/portfolio/static/media/ScrollDown.d8e5e186ec4e82a9796d.gif",
     "static/media/CGU_logo.png": "/portfolio/static/media/CGU_logo.b147f8bf8d75647c50b0.png",
     "static/media/avatar.jpeg": "/portfolio/static/media/avatar.be03d2f67785b71c47a9.jpeg",
     "static/media/email.png": "/portfolio/static/media/email.51b08bcbb5af7a861c31.png",
     "index.html": "/portfolio/index.html",
-    "main.c3b750af.css.map": "/portfolio/static/css/main.c3b750af.css.map",
-    "main.9d8dc066.js.map": "/portfolio/static/js/main.9d8dc066.js.map"
+    "main.f230cf22.css.map": "/portfolio/static/css/main.f230cf22.css.map",
+    "main.c0626eda.js.map": "/portfolio/static/js/main.c0626eda.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3b750af.css",
-    "static/js/main.9d8dc066.js"
+    "static/css/main.f230cf22.css",
+    "static/js/main.c0626eda.js"
   ]
 }
