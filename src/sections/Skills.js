@@ -14,7 +14,7 @@ const Skills = () => {
                         <Others/>
                     </div>
                     <div className=" text-xl font-redhat font-bold text-center pt-5">Happy to work with any tech not listed above!</div>
-                    <div className=" text-md font-redhat text-center pb-10">*currently learning...</div>
+                    <div className=" text-md font-redhat text-center pb-10">*currently learning</div>
                 </div>
             </div>
         </div>
