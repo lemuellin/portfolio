@@ -2,7 +2,7 @@
 A React Portfolio site utilizing Tailwind CSS for styling.  
 [Live Demo](https://lemuellin.github.io/portfolio/) :point_left:
 
-<img src="./src/assets/screenshots/portfolio.png">
+<img src="./src/assets/screenshots/portfolioCompressed.png">
 
 # Technologies
 -	React
