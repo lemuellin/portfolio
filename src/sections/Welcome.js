@@ -9,7 +9,7 @@ const Welcome = () => {
                     Hi, I'm Lemuel. 
                 </div>
                 <div className=" text-3xl sm:text-5xl font-redhat font-semibold text-center">
-                    A Front-End Developer based in Los Angeles.
+                    A Full-Stack Developer based in Los Angeles.
                     {/* // a mechanical engineer with a passion in web development */}
                 </div>
                 <Links/>

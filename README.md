@@ -16,3 +16,5 @@ cd portfolio
 npm install
 npm start
 ```
+
+(gif delay setting 275)

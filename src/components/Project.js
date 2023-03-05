@@ -1,6 +1,6 @@
 const Project = (props) => {
     return(
-        <div  id="PJmobile" className=" pb-8 projects:w-[30rem]  projects:p-7 projects:rounded-3xl bg-slate-100 text-black font-redhat flex flex-col gap-2">
+        <div  id="PJmobile" className=" pb-8 projects:w-[30rem] projects:p-7 projects:rounded-3xl bg-slate-100 text-black font-redhat flex flex-col gap-2">
             <img src={props.preview} alt="placeholder" onClick={()=>window.open(props.liveLink)} className=" cursor-pointer"/>
             <div className=" pl-5  pr-5 projects:pl-0 projects:pr-0 text-2xl font-semibold pt-3">{props.title}</div>
             <div className=" pl-5 pr-5 projects:pl-0 projects:pr-0 text-lg pb-1">{props.description}</div>

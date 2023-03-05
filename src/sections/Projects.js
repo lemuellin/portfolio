@@ -1,6 +1,6 @@
 import Project from "../components/Project";
 import minimalGarden from "../assets/screenshots/minimalGardenCompressed.gif";
-import portfolio from '../assets/screenshots/portfolioCompressed.png';
+import inventory from '../assets/screenshots/inventoryCompressed.gif';
 import monogram from '../assets/screenshots/monogramCompressed.gif';
 import wheresWalter from '../assets/screenshots/wheresWalterCompressed.gif';
 import weatherNow from '../assets/screenshots/weatherNowCompressed.jpg';
@@ -18,6 +18,14 @@ const Projects = () => {
                     tech={"React, Firebase, Bootstrap, REST API, Async JS"}
                     liveLink={"https://lemuellin.github.io/monogram/"}
                     githubLink={"https://github.com/lemuellin/monogram"}
+                />
+                <Project 
+                    preview={inventory} 
+                    title={"Inventory App"} 
+                    description={"CRUD inventory app utilizing MVC pattern, MongoDB Schema, and route controller"} 
+                    tech={"Express, NodeJS, MongoDB, Pug, Bootstrap"}
+                    liveLink={"https://tct-tc-inventory.up.railway.app"}
+                    githubLink={"https://github.com/lemuellin/inventory"}
                 />
                 <Project 
                     preview={minimalGarden} 
@@ -46,18 +54,10 @@ const Projects = () => {
                 <Project 
                     preview={weatherNow} 
                     title={"Weather Now"} 
-                    description={"A weather app utilizing Open Weather API with async/await JS."} 
+                    description={"Weather app utilizing Open Weather API with async/await JS."} 
                     tech={"REST API, Async JS"}
                     liveLink={"https://lemuellin.github.io/odin-weather-app/"}
                     githubLink={"https://github.com/lemuellin/odin-weather-app"}
-                />
-                <Project 
-                    preview={portfolio} 
-                    title={"Portfolio Site"} 
-                    description={"Yay! You are already here, this site showcased what I have achieved so far in my journey."} 
-                    tech={"React, Tailwind"}
-                    liveLink={"https://lemuellin.github.io/portfolio/"}
-                    githubLink={"https://github.com/lemuellin/portfolio"}
                 />
             </div>
         </div>

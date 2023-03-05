@@ -1,4 +1,5 @@
 import Mongoose from '../../assets/mongooseIcon.png';
+import Pug from '../../assets/pug.png';
 
 const BackEnd = () => {
     return(
@@ -19,11 +20,15 @@ const BackEnd = () => {
             </div>
             <div className="flex flex-col justify-items-center">
                 <i className="devicon-express-original text-6xl text-center"></i>
-                <div className="text-center font-redhat font-bold text-md skills:text-xl">Express*</div>
+                <div className="text-center font-redhat font-bold text-md skills:text-xl">Express</div>
             </div>
             <div className="flex flex-col justify-items-center items-center">
-                <img src={Mongoose} className="w-[60px] text-center"></img>
-                <div className="text-end font-redhat font-bold text-md skills:text-xl">Mongoose*</div>
+                <img src={Mongoose} className="w-[60px] text-center" alt='mongoose icon'></img>
+                <div className="text-end font-redhat font-bold text-md skills:text-xl">Mongoose</div>
+            </div>
+            <div className="flex flex-col justify-items-center items-center">
+                <img src={Pug} className="w-[60px] text-center" alt='pug icon'></img>
+                <div className="text-end font-redhat font-bold text-md skills:text-xl">Pug</div>
             </div>
         </div>
     )
