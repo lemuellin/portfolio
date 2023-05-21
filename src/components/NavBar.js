@@ -21,7 +21,7 @@ const NavBar = () => {
         <div className=" fixed top-0 h-12 w-screen m-0 flex justify-center items-center bg-primary shadow-md">
             <nav className="flex items-center justify-between flex-wrap font-redhat p-4">
                 <div className="fixed left-10 flex items-center flex-shrink-0 text-black mr-6">
-                    <span onClick={(e) => {e.preventDefault(); document.getElementById("welcome").scrollIntoView({behavior: 'smooth'}); setMenu(false);}} className=" font-extrabold text-xl tracking-tight cursor-pointer">Lemuel Lin</span>
+                    <span onClick={(e) => {e.preventDefault(); document.getElementById("welcome").scrollIntoView({behavior: 'smooth'}); setMenu(false);}} className=" font-extrabold text-xl tracking-tight cursor-pointer">Jake Lin</span>
                 </div>
                 <div className="fixed right-10 lg:hidden">
                     <button onClick={(e) => {e.preventDefault(); setMenu(!menu);}} className="flex items-center px-2 py-1 border-0 rounded text-black border-black hover:bg-slate-200 cursor-pointer">
