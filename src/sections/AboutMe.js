@@ -10,7 +10,7 @@ const AboutMe = () => {
                 <img src={avatar} alt={'avatar'} className="w-40 border border-black-4 p-3 rounded-3xl"/>
                 <div className=" min-width-[30rem] md:w-[50rem] border border-black-4 rounded-2xl p-7  flex flex-col gap-3 font-redhat text-xl">
                     <div>
-                        Hi, I am <b>Lemuel</b> (pronounced like Samuel, but starts with L).
+                        Hi, I am <b>Jake</b>.
                     </div>
                     <div>
                         • Full-Stack Developer with a background in Mechanical Engineering.
