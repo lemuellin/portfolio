@@ -24,7 +24,7 @@ const Projects = () => {
                     title={"Inventory App"} 
                     description={"CRUD inventory app utilizing MVC pattern, MongoDB Schema, and route controller"} 
                     tech={"Express, NodeJS, MongoDB, Pug, Bootstrap"}
-                    liveLink={"https://tct-tc-inventory.up.railway.app"}
+                    liveLink={"https://tct-inventory.fly.dev/catalog"}
                     githubLink={"https://github.com/lemuellin/inventory"}
                 />
                 <Project 
