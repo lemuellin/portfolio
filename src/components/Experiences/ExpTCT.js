@@ -13,9 +13,8 @@ const ExpTCT = () => {
             <div className=" md:w-[48rem] border border-black-4 rounded-2xl p-7">
                 <div className="font-semibold text-2xl pb-3">Application Engineer</div>
                 <div className=" text-lg">
-                    <div>• Optimized <span className='bg-yellow-300 px-2  font-semibold'>PCB drilling process</span> through design, conduct tests</div>
-                    {/* <div>• Collaborated with an engineering team abroad, fine-tune an IoT smart warehouse</div> */}
-                    <div>• Provided <span className='bg-yellow-300 px-2  font-semibold'>technical support</span> to 70% of drill shop across US</div>
+                    <div>• Developed <span className='bg-yellow-300 px-2  font-semibold'>React</span> software to perform <span className='bg-yellow-300 px-2  font-semibold'>statistical analysis</span> and generate <span className='bg-yellow-300 px-2  font-semibold'>CAD</span></div>
+                    <div>• Provided <span className='bg-yellow-300 px-2  font-semibold'>technical support</span>, optimizing manufacturing process for customers</div>
                 </div>
             </div>
         </div>

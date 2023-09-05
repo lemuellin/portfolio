@@ -10,7 +10,7 @@ const AboutMe = () => {
                 <img src={avatar} alt={'avatar'} className="w-40 border border-black-4 p-3 rounded-3xl"/>
                 <div className=" min-width-[30rem] md:w-[50rem] border border-black-4 rounded-2xl p-7  flex flex-col gap-3 font-redhat text-xl">
                     <div>
-                        Hi, I am <b>Jake</b>.
+                        Hi, I am <b>Lemuel</b>.
                     </div>
                     <div>
                         • Full-Stack Developer with a background in Mechanical Engineering.
@@ -19,7 +19,7 @@ const AboutMe = () => {
                         • <span className=' bg-yellow-300 font-semibold px-2'>1 YOE in Software Development</span>
                     </div>
                     <div>
-                        • <span className=' bg-yellow-300 font-semibold px-2'>4 YOE in Mechanical Engineering</span>
+                        • <span className=' bg-yellow-300 font-semibold px-2'>5 YOE in Mechanical Engineering</span>
                     </div>
                     <div>
                         • I am creative, proactive, and I love challenges.
